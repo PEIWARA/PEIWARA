@@ -24,11 +24,7 @@ PLAYER EXP
 - CHIANG MAI UNIVERSITY,Teaching Assistant — 204101 Computer Science (Fundamentals)
 - VR Horror Game Research — UI-Free Interaction & Fear Experience
 - PAY SOLUTION, Full-Stack Developer Intern
-- Software Engineering Project, Frontend Developer & UX/UI Design
-- HCI Project, UX/UI Design
-- OOP Project, Full-Stack Developer & UX/UI Design
-- Mobile Application Project, Full-Stack Developer
-- TLIC CMU, UX/UI Design
+- Gogoboard AR Course - TLIC CMU, UX/UI Design
 - Modern Application Project, Full-Stack Developer
 
 SKILL TREE
